@@ -1,0 +1,29 @@
+.one{
+    background-color: antiquewhite;
+    color:black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: black;
+    border-width: 10px;
+    border-style: double;
+}
+.box{
+    border-color:aliceblue;
+    border-width: 5px;
+    border-style: solid;
+    display:inline-table;
+    width:400px;
+}
+
+.product{
+    text-align:center;
+}
+.two{
+    background-color: antiquewhite;
+    color:black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: black;
+    border-width: 10px;
+    border-style: dotted;
+}
